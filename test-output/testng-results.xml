@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-27T13:04:59Z" name="Default suite" finished-at="2024-05-27T13:05:00Z" duration-ms="1310">
+    <groups>
+    </groups>
+    <test started-at="2024-05-27T13:04:59Z" name="Default test" finished-at="2024-05-27T13:05:00Z" duration-ms="1310">
+      <class name="DynamicJson">
+        <test-method signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@1b45c0e]" started-at="2024-05-27T13:04:59Z" name="addBook" data-provider="BooksData" finished-at="2024-05-27T13:05:00Z" duration-ms="977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asda]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@1b45c0e]" started-at="2024-05-27T13:05:00Z" name="addBook" data-provider="BooksData" finished-at="2024-05-27T13:05:00Z" duration-ms="124" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ddfd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5656]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@1b45c0e]" started-at="2024-05-27T13:05:00Z" name="addBook" data-provider="BooksData" finished-at="2024-05-27T13:05:00Z" duration-ms="196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dxvx]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9899]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
